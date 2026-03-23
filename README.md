@@ -23,6 +23,8 @@ These codes and datasets have been used for the study to generate persistent noi
 
 **starfishmodel_noise_statistics_analysis.ipynb** : analyze the statistics of noise in velocity from the starfish embryo model. At the end of the code, also analyze the statistics of randomly generated numbers that represent the velocity deviation in self-circling to verify the effect of finite time interval for velocity calculation on the statistics of noise in velocity.
 
+**starfishmodel_emulation_analysis.ipynb** : analyze the starfish embryo model simulation data emulating the experiment by generating the dispersion relations. 
+
 **expt_data_analysis_traj.ipynb** : process the experimental data used in T.H. Tan, A. Mietke, J. Li, Y. Chen, H. Higinbotham, P.J. Foster, S. Gokhale, J. Dunkel and N. Fakhri. Odd dynamics of living chiral crystals, _Nature_ **607**, 287 (2022) for our analysis so that we only use the trajectories of the embryos that are long enough. For the original experimental data, please contact Prof. Tzer Han Tan (tztan@ucsd.edu) or Professor Nikta Fakhri (fakhri@mit.edu).
 
 **expt_3dFFT.c** : generate Fourier-transformed current correlation functions from the data processed in the above code.
