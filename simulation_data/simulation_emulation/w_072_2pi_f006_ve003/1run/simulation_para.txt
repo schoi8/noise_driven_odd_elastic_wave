@@ -1,0 +1,7 @@
+numx = 30,  numy = 30, N = 900 
+n_tot = 4000, n_interval = 10, dt = 0.010000 
+tmax = n_tot*dt = 40.000000, t_interval = n_interval*dt = 0.100000 
+R = 0.500000, spacing = 1.200000, r0 = 1.200000, rm = 1.900000 
+Fst0 = 53.700000, frep0 = 785.100000, w0 = 4.523893, f0 = 0.060000, u0 = 0.050000, v0 = 0.010000 
+noisy v0. mean = 0.010000, noise amplitude ve = 0.031305 
+Time taken: 9.6216600s
