@@ -25,6 +25,8 @@ These codes and datasets have been used for the study to generate persistent noi
 
 **expt_analysis_plots.ipynb** : analyze the current correlation functions from the processed experimental data.
 
+**expt_noise_extract** : extract the noise statistics from the experimental data.
+
 **Data generated from simulation**
 
 Data generated from simulation are in the folder "simulation_data". For the description of each dataset, please refer to the .md file in each folder.
