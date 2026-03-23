@@ -1,0 +1,9 @@
+numx = 30,  numy = 30, N = 900 
+n_tot = 80000, n_interval = 200, dt = 0.010000 
+tmax = n_tot*dt = 800.000000, t_interval = n_interval*dt = 2.000000 
+R = 0.500000, spacing = 1.200000, r0 = 1.200000, rm = 1.900000 
+Fst0 = 53.700000, frep0 = 785.100000, w0 = 0.030000, u0 = 0.050000, v0 = 0.060000 
+transverse force magnitude f0 = 0.060000 
+v0 noisy. mean = 0.060000, noise amplitude = 0.080000 
+number of simulations = 100 
+Time taken: 14545.8541720s
