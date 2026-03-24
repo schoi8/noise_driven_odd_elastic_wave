@@ -1,0 +1,1 @@
+The file sizes for the current correlation functions were too large to be uploaded here. However, one can generate those files using the code toymodel_wave_propag_multirun.c with the parameters provided in simulation_para.txt.
