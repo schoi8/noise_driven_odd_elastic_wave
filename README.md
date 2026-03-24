@@ -45,6 +45,8 @@ These codes and datasets have been used for the study to generate persistent noi
 
 **toymodel_wave_propag_multirun.c** : run multiple iterations of the toy model simulation with space-depedent noise.
 
+**toymodel_wave_propag_analysis.ipynb** : generate the movie for the propagating wave behavior and the dispersion relations plot.
+
 **Data generated from simulation**
 
 Data generated from simulation are in the folder "simulation_data". For the description of each dataset, please refer to the .md file in each folder.
