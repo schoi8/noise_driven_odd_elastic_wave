@@ -1,0 +1,10 @@
+numx = 60,  numy = 30, N = 1800 
+number of iterations = 100 
+n_eq = 10000, n_tot = 40000, n_interval = 40, dt = 0.010000 
+tmax = n_tot*dt = 400.000000, t_interval = n_interval*dt = 0.400000 
+R = 0.500000, spacing = 1.000000, r0 = 1.000000 
+k = 0.500000, ka = 1.000000, u0 = 0.050000 
+noise constant D0 = 0.010000 
+Time taken: 3891.7266270s
+
+exp[-0.1*x^2]|cos(0.5*pi*x/r0)|
