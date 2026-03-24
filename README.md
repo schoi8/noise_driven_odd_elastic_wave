@@ -41,6 +41,10 @@ These codes and datasets have been used for the study to generate persistent noi
 
 **expt_noise_extract.ipynb** : extract the noise statistics from the experimental data.
 
+**toymodel_wave_propag.c** : simulate the toy model with space-dependent noise to observe propagation of waves.
+
+**toymodel_wave_propag_multirun.c** : run multiple iterations of the toy model simulation with space-depedent noise.
+
 **Data generated from simulation**
 
 Data generated from simulation are in the folder "simulation_data". For the description of each dataset, please refer to the .md file in each folder.
