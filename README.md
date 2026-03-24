@@ -21,7 +21,11 @@ These codes and datasets have been used for the study to generate persistent noi
 
 **starfishmodel_phasediag_Lindemann.c** : calculate the dynamic Lindemann ratio while simulating the starfish embryo model. It prints the value of dynamic Lindemann ratio during the simulation, so if the value is large enough and the simulation is stuck, it should be manually aborted.
 
+**starfishmodel_phasediag_melting_analysis.ipynb** : plot the time series of the dynamic Lindemann ratio for different parameters to estimate the phase boundary at which the dynamic Lindemann ratio diverges.
+
 **starfishmodel_phasediag_wave_multirun.c** : run multiple iterations of the starfish embyro model and calculate the average dynamic Lindemann ratio and the maximum correlation function at M point of the first Brillouin zone. We ended up not using the max C at M point calculated by this code because it just picked up the self-circling signal, but we are providing this code because it generated the correlation function data used to determine the phase boundary.
+
+**starfishmodel_phasediag_wave_analysis.ipynb** : calculate the coefficient of variation (CV) for the current correlation functions at M point of the first Brillouin zone. Generate the double axis plot of the maximum current correlation function at M point and CV to determine the phase boundary.
 
 **starfishmodel_noise_analysis_singlerun.c** : single run of simulation of the starfish embryo model that records the time series of the coordinate and the velocity of each agent in addition to the current correlation functions.
 
@@ -35,7 +39,7 @@ These codes and datasets have been used for the study to generate persistent noi
 
 **expt_analysis_plots.ipynb** : analyze the current correlation functions from the processed experimental data.
 
-**expt_noise_extract** : extract the noise statistics from the experimental data.
+**expt_noise_extract.ipynb** : extract the noise statistics from the experimental data.
 
 **Data generated from simulation**
 
